@@ -14,7 +14,6 @@ A complete MySQL-based data analysis project using real-world bookstore data. Th
 - **Customers**: Customer personal and location information
 - **Orders**: Orders placed by customers including date, book ID, quantity, and total amount
 
-![ER Diagram Placeholder - Optional](#)
 
 ## 🔍 Key SQL Concepts Practiced
 
@@ -63,5 +62,5 @@ A complete MySQL-based data analysis project using real-world bookstore data. Th
 
 ## 👨‍💻 Author
 
-- **Name**: [Your Name]
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Name**: [Adhyan]
+- **GitHub**: [Adhyannnn](https://github.com/Adhyannnn)
